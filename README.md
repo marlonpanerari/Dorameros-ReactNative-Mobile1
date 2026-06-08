@@ -1,7 +1,3 @@
-Aqui está o README melhorado:
-
----
-
 # Dorameros
 
 Projeto de **Frontend Mobile** desenvolvido como trabalho final da disciplina de **Mobile 1** — ETEC de Guarulhos
