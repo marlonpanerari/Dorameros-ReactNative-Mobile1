@@ -43,7 +43,7 @@ const LoginScreen = ({ navigation }) => {
       </TouchableOpacity>
 
       <View style={styles.footer}>
-        <Text style={styles.foot}>Por Marlon e Alexia</Text>
+        <Text style={styles.foot}>Por Marlon Panerari</Text>
       </View>
     </View>
   );
